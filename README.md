@@ -12,6 +12,86 @@ This project provides a comprehensive review of Agentic Science, including Life 
 
 ---
 
+## Part 0: Fully Autonomous Research Pipeline
+
+- **SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**  
+  *Jingyi Chai, Shuo Tang, Rui Ye, Yuwen Du, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Siheng Chen, et al. arXiv 2025*
+
+- **NovelSeek: When Agent Becomes the Scientist--Building Closed-Loop System from Hypothesis to Verification**  
+  *NovelSeek Team, Bo Zhang, Shiyang Feng, Xiangchao Yan, Jiakang Yuan, Zhiyin Yu, Xiaohan He, Songtao Huang, et al. arXiv 2025*
+
+- **Large language models for automated open-domain scientific hypotheses discovery**  
+  *Zonglin Yang, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria. arXiv 2023*
+
+- **Maps: A multi-agent framework based on big seven personality and socratic guidance for multimodal scientific problem solving**  
+  *Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, Fangzhi Xu, Qika Lin, Rui Mao, Erik Cambria, Jun Liu. arXiv 2025*
+
+- **Agentrxiv: Towards collaborative autonomous research**  
+  *Samuel Schmidgall, Michael Moor. arXiv 2025*
+
+- **Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback**  
+  *Jiakang Yuan, Xiangchao Yan, Botian Shi, Tao Chen, Wanli Ouyang, Bo Zhang, Lei Bai, Yu Qiao, Bowen Zhou. arXiv 2025*
+
+- **Towards an AI co-scientist**  
+  *Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, Tao Tu, Anil Palepu, Petar Sirkovic, Artiom Myaskovsky, Felix Weissenberger, Keran Rong, Ryutaro Tanno, et al. arXiv 2025*
+
+- **The AI scientist: Towards fully automated open-ended scientific discovery**  
+  *Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha. arXiv 2024*
+
+- **The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation**  
+  *Kyle Swanson, Wesley Wu, Nash L. Bulaong, John E. Pak, James Zou. bioRxiv 2024*
+
+- **SpatialAgent: An autonomous AI agent for spatial biology**  
+  *Hanchen Wang, Yichun He, Paula P. Coelho, Matthew Bucci, Abbas Nazir, Bob Chen, Linh Trinh, Serena Zhang, Kexin Huang, Vineethkrishna Chandrasekar, et al. bioRxiv 2025*
+
+- **Biomni: A general-purpose biomedical AI agent**  
+  *Kexin Huang, Serena Zhang, Hanchen Wang, Yuanhao Qu, Yingzhou Lu, Yusuf Roohani, Ryan Li, Lin Qiu, Gavin Li, Junze Zhang, et al. bioRxiv 2025*
+
+- **Automating exploratory proteomics research via language models**  
+  *Ning Ding, Shang Qu, Linhai Xie, Yifei Li, Zaoqu Liu, Kaiyan Zhang, Yibai Xiong, Yuxin Zuo, Zhangren Chen, Ermo Hua, et al. arXiv 2024*
+
+- **Matpilot: An LLM-enabled AI materials scientist under the framework of human-machine collaboration**  
+  *Ziqi Ni, Yahao Li, Kaijia Hu, Kunyuan Han, Ming Xu, Xingyu Chen, Fengqi Liu, Yicong Ye, Shuxin Bai. arXiv 2024*
+
+- **Tora: A tool-integrated reasoning agent for mathematical problem solving**  
+  *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen. arXiv 2023*
+
+- **STELLA: Self-Evolving LLM Agent for Biomedical Research**  
+  *Ruofan Jin, Zaixi Zhang, Mengdi Wang, Le Cong. arXiv 2025*
+
+- **Two heads are better than one: A multi-agent system has the potential to improve scientific idea generation**  
+  *Haoyang Su, Renqi Chen, Shixiang Tang, Xinzhe Zheng, Jinzhe Li, Zhenfei Yin, Wanli Ouyang, Nanqing Dong. arXiv 2024*
+
+- **Dora AI scientist: Multi-agent virtual research team for scientific exploration discovery and automated report generation**  
+  *Vladimir Naumov, Diana Zagirova, Sha Lin, Yupeng Xie, Wenhao Gou, Anatoly Urban, Nina Tikhonova, Khadija Alawi, Mike Durymanov, Fedor Galkin, et al. bioRxiv 2025*
+
+- **DiscoveryWorld: A virtual environment for developing and evaluating automated scientific discovery agents**  
+  *Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, Bhavana Dalvi Mishra, Bodhisattwa Prasad Majumder, Oyvind Tafjord, Peter Clark. NeurIPS 2024*
+
+- **Autonomous chemical research with large language models**  
+  *Daniil A. Boiko, Robert MacKnight, Ben Kline, Gabe Gomes. Nature 2023*
+
+- **ResearchAgent: Iterative research idea generation over scientific literature with large language models**  
+  *Jinheon Baek, Sujay Kumar Jauhar, Silviu Cucerzan, Sung Ju Hwang. arXiv 2024*
+
+- **Agent laboratory: Using LLM agents as research assistants**  
+  *Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Michael Moor, Zicheng Liu, Emad Barsoum. arXiv 2025*
+
+- **Agent hospital: A simulacrum of hospital with evolvable medical agents**  
+  *Junkai Li, Yunghwei Lai, Weitao Li, Jingyi Ren, Meng Zhang, Xinhui Kang, Siyu Wang, Peng Li, Ya-Qin Zhang, Weizhi Ma, et al. arXiv 2024*
+
+- **Conversational health agents: A personalized LLM-powered agent framework**  
+  *Mahyar Abbasian, Iman Azimi, Amir M. Rahmani, Ramesh Jain. arXiv 2023*
+
+- **An automatic end-to-end chemical synthesis development platform powered by large language models**  
+  *Yixiang Ruan, Chenyin Lu, Ning Xu, Yuchen He, Yixin Chen, Jian Zhang, Jun Xuan, Jianzhang Pan, Qun Fang, Hanyu Gao, et al. Nature Communications 2024*
+
+- **AlphaEvolve: A coding agent for scientific and algorithmic discovery**  
+  *Alexander Novikov, Ngân Vũ, Marvin Eisenberger, Emilien Dupont, Po-Sen Huang, Adam Zsolt Wagner, Sergey Shirobokov, Borislav Kozlovskii, Francisco JR Ruiz, Abbas Mehrabian, et al. arXiv 2025*
+
+- **Accelerated end-to-end chemical synthesis development with large language models**  
+  *Yixiang Ruan, Chenyin Lu, Ning Xu, Jian Zhang, Jun Xuan, Jianzhang Pan, Qun Fang, Hanyu Gao, Xiaodong Shen, Ning Ye, et al. arXiv 2024*
+
 ## Part 1: Agentic Life Science Research
 
 ### General Frameworks and Methodologies
@@ -375,85 +455,7 @@ This project provides a comprehensive review of Agentic Science, including Life 
   *Shuxiang Cao, Zijian Zhang, Mohammed Alghadeer, Simone D. Fasciati, Michele Piscitelli, Mustafa Bakr, Peter Leek, Alán Aspuru-Guzik. arXiv 2024*
 
 
-## Part 5: Fully Autonomous Research Pipeline
 
-- **SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**  
-  *Jingyi Chai, Shuo Tang, Rui Ye, Yuwen Du, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Siheng Chen, et al. arXiv 2025*
-
-- **NovelSeek: When Agent Becomes the Scientist--Building Closed-Loop System from Hypothesis to Verification**  
-  *NovelSeek Team, Bo Zhang, Shiyang Feng, Xiangchao Yan, Jiakang Yuan, Zhiyin Yu, Xiaohan He, Songtao Huang, et al. arXiv 2025*
-
-- **Large language models for automated open-domain scientific hypotheses discovery**  
-  *Zonglin Yang, Xinya Du, Junxian Li, Jie Zheng, Soujanya Poria, Erik Cambria. arXiv 2023*
-
-- **Maps: A multi-agent framework based on big seven personality and socratic guidance for multimodal scientific problem solving**  
-  *Jian Zhang, Zhiyuan Wang, Zhangqi Wang, Xinyu Zhang, Fangzhi Xu, Qika Lin, Rui Mao, Erik Cambria, Jun Liu. arXiv 2025*
-
-- **Agentrxiv: Towards collaborative autonomous research**  
-  *Samuel Schmidgall, Michael Moor. arXiv 2025*
-
-- **Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback**  
-  *Jiakang Yuan, Xiangchao Yan, Botian Shi, Tao Chen, Wanli Ouyang, Bo Zhang, Lei Bai, Yu Qiao, Bowen Zhou. arXiv 2025*
-
-- **Towards an AI co-scientist**  
-  *Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, Tao Tu, Anil Palepu, Petar Sirkovic, Artiom Myaskovsky, Felix Weissenberger, Keran Rong, Ryutaro Tanno, et al. arXiv 2025*
-
-- **The AI scientist: Towards fully automated open-ended scientific discovery**  
-  *Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha. arXiv 2024*
-
-- **The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation**  
-  *Kyle Swanson, Wesley Wu, Nash L. Bulaong, John E. Pak, James Zou. bioRxiv 2024*
-
-- **SpatialAgent: An autonomous AI agent for spatial biology**  
-  *Hanchen Wang, Yichun He, Paula P. Coelho, Matthew Bucci, Abbas Nazir, Bob Chen, Linh Trinh, Serena Zhang, Kexin Huang, Vineethkrishna Chandrasekar, et al. bioRxiv 2025*
-
-- **Biomni: A general-purpose biomedical AI agent**  
-  *Kexin Huang, Serena Zhang, Hanchen Wang, Yuanhao Qu, Yingzhou Lu, Yusuf Roohani, Ryan Li, Lin Qiu, Gavin Li, Junze Zhang, et al. bioRxiv 2025*
-
-- **Automating exploratory proteomics research via language models**  
-  *Ning Ding, Shang Qu, Linhai Xie, Yifei Li, Zaoqu Liu, Kaiyan Zhang, Yibai Xiong, Yuxin Zuo, Zhangren Chen, Ermo Hua, et al. arXiv 2024*
-
-- **Matpilot: An LLM-enabled AI materials scientist under the framework of human-machine collaboration**  
-  *Ziqi Ni, Yahao Li, Kaijia Hu, Kunyuan Han, Ming Xu, Xingyu Chen, Fengqi Liu, Yicong Ye, Shuxin Bai. arXiv 2024*
-
-- **Tora: A tool-integrated reasoning agent for mathematical problem solving**  
-  *Zhibin Gou, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen. arXiv 2023*
-
-- **STELLA: Self-Evolving LLM Agent for Biomedical Research**  
-  *Ruofan Jin, Zaixi Zhang, Mengdi Wang, Le Cong. arXiv 2025*
-
-- **Two heads are better than one: A multi-agent system has the potential to improve scientific idea generation**  
-  *Haoyang Su, Renqi Chen, Shixiang Tang, Xinzhe Zheng, Jinzhe Li, Zhenfei Yin, Wanli Ouyang, Nanqing Dong. arXiv 2024*
-
-- **Dora AI scientist: Multi-agent virtual research team for scientific exploration discovery and automated report generation**  
-  *Vladimir Naumov, Diana Zagirova, Sha Lin, Yupeng Xie, Wenhao Gou, Anatoly Urban, Nina Tikhonova, Khadija Alawi, Mike Durymanov, Fedor Galkin, et al. bioRxiv 2025*
-
-- **DiscoveryWorld: A virtual environment for developing and evaluating automated scientific discovery agents**  
-  *Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, Bhavana Dalvi Mishra, Bodhisattwa Prasad Majumder, Oyvind Tafjord, Peter Clark. NeurIPS 2024*
-
-- **Autonomous chemical research with large language models**  
-  *Daniil A. Boiko, Robert MacKnight, Ben Kline, Gabe Gomes. Nature 2023*
-
-- **ResearchAgent: Iterative research idea generation over scientific literature with large language models**  
-  *Jinheon Baek, Sujay Kumar Jauhar, Silviu Cucerzan, Sung Ju Hwang. arXiv 2024*
-
-- **Agent laboratory: Using LLM agents as research assistants**  
-  *Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Michael Moor, Zicheng Liu, Emad Barsoum. arXiv 2025*
-
-- **Agent hospital: A simulacrum of hospital with evolvable medical agents**  
-  *Junkai Li, Yunghwei Lai, Weitao Li, Jingyi Ren, Meng Zhang, Xinhui Kang, Siyu Wang, Peng Li, Ya-Qin Zhang, Weizhi Ma, et al. arXiv 2024*
-
-- **Conversational health agents: A personalized LLM-powered agent framework**  
-  *Mahyar Abbasian, Iman Azimi, Amir M. Rahmani, Ramesh Jain. arXiv 2023*
-
-- **An automatic end-to-end chemical synthesis development platform powered by large language models**  
-  *Yixiang Ruan, Chenyin Lu, Ning Xu, Yuchen He, Yixin Chen, Jian Zhang, Jun Xuan, Jianzhang Pan, Qun Fang, Hanyu Gao, et al. Nature Communications 2024*
-
-- **AlphaEvolve: A coding agent for scientific and algorithmic discovery**  
-  *Alexander Novikov, Ngân Vũ, Marvin Eisenberger, Emilien Dupont, Po-Sen Huang, Adam Zsolt Wagner, Sergey Shirobokov, Borislav Kozlovskii, Francisco JR Ruiz, Abbas Mehrabian, et al. arXiv 2025*
-
-- **Accelerated end-to-end chemical synthesis development with large language models**  
-  *Yixiang Ruan, Chenyin Lu, Ning Xu, Jian Zhang, Jun Xuan, Jianzhang Pan, Qun Fang, Hanyu Gao, Xiaodong Shen, Ning Ye, et al. arXiv 2024*
 ## 📖 Citation
 If you find this project helpful, please consider citing it:
 ```bibtex

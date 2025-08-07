@@ -1,5 +1,8 @@
 # From AI for Science to Agentic Science 🤖️
 
+[![arXiv]()]() 
+[![Paper]()]()
+[![star 🌟]()]()
 
 Welcome to the Repo maintained by 🌟 Yuejin Yang & Jiaqi Wei & Xiang Zhang 🌟 ~
 

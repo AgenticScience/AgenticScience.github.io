@@ -14,6 +14,8 @@ Explore this **focused, detailed repository** to understand how autonomous agent
 
 🔔🔔🔔 Please refer to [our paper](https://agenticscience.github.io/) for more detailed information ～
 
+***
+
 ## 👋 Introduction 
 
 **Agentic Science** represents a groundbreaking shift where AI evolves from a tool to an **autonomous agent**, capable of **reasoning, planning, conducting experiments, and refining ideas** independently.
@@ -31,8 +33,6 @@ Four-Step Discovery Cycle:
 2. **Experimental planning and execution**
 3. **Result analysis**
 4. **Evolution**
-
-***
 
 We provide a **detailed review** of advancements across **life sciences, chemistry, materials science, and physics**, covering dozens of subfields and hundreds of studies.
 

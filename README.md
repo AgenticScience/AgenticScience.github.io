@@ -1,16 +1,37 @@
-# From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery
+# From AI for Science to Agentic Science 🤖️
 
 
-Maintained by 🌟 Yuejin Yang & Jiaqi Wei & Xiang Zhang 🌟
+Welcome to the Repo maintained by 🌟 Yuejin Yang & Jiaqi Wei & Xiang Zhang 🌟 ~
 
-This project provides a comprehensive review of Agentic Science, including Life Sciences, Chemistry, Materials Science, and Physics. Our goal is to summarize the latest advancements, highlight emerging trends, and inspire future research in automated, AI-driven scientific exploration.
+This repository highlights how AI is becoming a **creative partner**, accelerating and reshaping scientific discovery.
 
+Explore this **focused, detailed repository** to understand how autonomous agents are revolutionizing science!
 
+🔔🔔🔔 Please refer to [our paper](https://agenticscience.github.io/) for more detailed information ～
 
+## 👋 Introduction 
+
+**Agentic Science** represents a groundbreaking shift where AI evolves from a tool to an **autonomous agent**, capable of **reasoning, planning, conducting experiments, and refining ideas** independently.
+This repository presents the **first comprehensive framework** for Agentic Science, focusing on:
+
+Five Key Abilities of Scientific Agents:
+1. **Planning and reasoning**
+2. **Tool use and integration**
+3. **Memory mechanism**
+4. **Collaboration with other agents**
+5. **Optimization and evolution**
+
+Four-Step Discovery Cycle:
+1. **Observation and hypothesis generation**
+2. **Experimental planning and execution**
+3. **Result analysis**
+4. **Evolution**
+
+We provide a **detailed review** of advancements across **life sciences, chemistry, materials science, and physics**, covering dozens of subfields and hundreds of studies.
 
 ![Main areas](./su.png)
+*Figure 1: Caption describing the main areas.*
 
----
 
 ## Part 0: Fully Autonomous Research Pipeline
 

@@ -1,8 +1,15 @@
 # From AI for Science to Agentic Science 🤖️
+# Awesome-AI4Research
 
-[![arXiv]()]() 
-[![Paper]()]()
-[![star 🌟]()]()
+[![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-b31b1b)](https://arxiv.org/)  
+[![Citation](https://img.shields.io/badge/citation-950-blue)](https://example.com/citations)  
+[![Star](https://img.shields.io/github/stars/username/repo?style=social)](https://github.com/username/repo)
+
+---
+
+🔥 **News**
+
+Stay tuned for the latest updates in AI research!
 
 Welcome to the Repo maintained by 🌟 Yuejin Yang & Jiaqi Wei & Xiang Zhang 🌟 ~
 

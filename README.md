@@ -1,9 +1,9 @@
 # From AI for Science to Agentic Science 🤖️
 
-[![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-b31b1b)](https://arxiv.org/)  
-[![Citation](https://img.shields.io/badge/citation-950-blue)](https://example.com/citations)  
-[![License: MIT]](https://opensource.org/licenses/MIT)
 
+[![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
+[![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ---
 

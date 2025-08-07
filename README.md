@@ -32,6 +32,8 @@ Four-Step Discovery Cycle:
 3. **Result analysis**
 4. **Evolution**
 
+***
+
 We provide a **detailed review** of advancements across **life sciences, chemistry, materials science, and physics**, covering dozens of subfields and hundreds of studies.
 
 ![Main areas](./su.png)

@@ -12,8 +12,13 @@
   [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   
-          
-  Welcome to the Repo maintained by ✨ **Yuejin Yang**, **Jiaqi Wei**, & **Xiang Zhang** ✨ ~
+  Welcome to our repository !
+
+  This repository is maintained by ✨ Yuejin Yang and Jiaqi Wei ✨, 
+  
+  part of the Science Intelligence Center at Shanghai Artificial Intelligence Laboratory, 
+  
+  and is associated with the Intern Discovery project.
 
   This repository highlights how AI is becoming a **creative partner**, accelerating and reshaping scientific discovery.
 

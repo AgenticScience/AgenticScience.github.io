@@ -1,8 +1,9 @@
 <div align="center">
   <h1>From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery 🤖</h1>
+  
   <br> <br>
   
-  <img width="700" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
+  <img width="800" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
 
    <br>
    
@@ -12,7 +13,6 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
   
   <br>
-  
 Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab.**
 
 This repository, part of the **Intern Discovery** project, 

@@ -39,24 +39,24 @@ Despite significant progress, a unified framework for understanding and designin
 ![Main areas](./figures/fig_taxonomy.png)
 *Figure 2: Caption describing the main areas.*
 
-### Our Key Contributions
+Finally, **Our Key Contributions** are as follows:
 
 1. **The Anatomy of Scientific Agents: Five Core Capabilities**:
- - **Reasoning and Planning**: Enabling agents to form hypotheses, strategize, and plan experiments.
- - **Tool Integration**: Seamlessly incorporating tools to execute tasks and experiments.
- - **Memory Mechanisms**: Storing, retrieving, and utilizing knowledge for iterative refinement.
- - **Multi-Agent Collaboration**: Facilitating cooperation and communication among multiple agents.
- - **Adaptive Optimization**: Dynamically improving processes and outcomes based on feedback.
+   - **Reasoning and Planning**
+   - **Tool Use and Integration**
+   - **Memory Mechanisms**
+   - **Multi-Agent Collaboration**
+   - **Optimization and Evolution**
 
 2. **The Dynamic Workflow of Agentic Science: Four Core Stages**
- - **Observation and Hypothesis Generation**: Collecting data and formulating hypotheses.
- - **Experimental Planning and Execution**: Designing and conducting targeted experiments.
- - **Data Interpretation and Analysis**: Extracting insights and validating results.
- - **Synthesis and Iterative Refinement**: Integrating findings and refining approaches.
+   - **Observation and Hypothesis Generation**
+   - **Experimental Planning and Execution**
+   - **Data Interpretation and Analysis**:
+   - **Synthesis and Iterative Refinement**s.
 
 3. **Systematic Review Across Natural Sciences**
  We conduct a comprehensive review of agentic systems across the major domains of natural science:
- - **Life Sciences**, **Chemistry**, **Materials Science**, and **Physics**.  
+  - **Life Sciences**, **Chemistry**, **Materials Science**, and **Physics**.  
 
 
 

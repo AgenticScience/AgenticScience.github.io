@@ -25,7 +25,7 @@
 
 ## 👋 Introduction 
 
-Scientific discovery is experiencing a transformative shift, driven by the rapid evolution of artificial intelligence
+*Scientific discovery** is experiencing a transformative shift, driven by the rapid evolution of artificial intelligence
 (AI) from specialized tools to collaborative research partners. This progression marks a pivotal stage in the
 **AI for Science paradigm**, where AI systems have moved from acting as computational oracles for targeted
 tasks toward the emergence of **Agentic Science**. In this stage, AI operates as an autonomous scientific agent capable of formulating hypotheses, designing and
@@ -36,7 +36,7 @@ executing experiments, interpreting results, and iteratively refining theories w
 
 ***
 
-Despite significant progress, a unified framework for understanding and designing increasingly autonomous scientific systems is still lacking. While existing work has laid valuable foundations, it remains fragmented—focusing separately on workflows, autonomy scales, or architectures, and often lacking a clear emphasis on the natural sciences. To bridge these gaps, our work integrates and extends these perspectives through a comprehensive framework. Additionally, we present the first domain-oriented review of autonomous scientific discovery, offering a detailed synthesis of research advancements and key discoveries within each discipline.
+Despite significant progress, a unified framework for understanding and designing increasingly autonomous scientific systems is still lacking. While existing work has laid valuable foundations, it remains **fragmented—focusing separately** on workflows, autonomy scales, or architectures, and often lacking a clear emphasis on the natural sciences. To bridge these gaps, our work integrates and extends these perspectives through **a comprehensive framework**. Additionally, we present **the first domain-oriented review** of autonomous scientific discovery, offering a detailed synthesis of research advancements and key discoveries within each discipline.
 
 ![Main areas](./figures/fig_taxonomy.png)
 *Figure 2: Caption describing the main areas.*

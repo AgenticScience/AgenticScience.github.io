@@ -3,7 +3,7 @@
 
    <br><br>
    
-  <img width="1600" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
+  <img width="1200" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
   
   <br><br>
   

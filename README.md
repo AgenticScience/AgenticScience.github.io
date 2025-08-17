@@ -20,9 +20,15 @@ showcases **how AI/Agent is becoming a creative scientist, accelerating and resh
 
 Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
 
-🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
+  <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: inline-block;">
+    <p>
+      🔔 🔔 🔔 For more detailed information, please refer to our paper ~
+    </p>
+    <p>
+      ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at {weijiaqi, yangyuejin}@pjlab.org.cn
+    </p>
+  </div>
 
-✉️ ➡️ 📪 If you have any questions, please feel free to contact us at  **{weijiaqi, yangyuejin}@pjlab.org.cn** 
 </div>
 
 

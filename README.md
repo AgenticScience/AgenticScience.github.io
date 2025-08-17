@@ -25,7 +25,7 @@
 
 ## 👋 Introduction 
 
-*Scientific discovery** is experiencing a transformative shift, driven by the rapid evolution of artificial intelligence
+**Scientific discovery** is experiencing a transformative shift, driven by the rapid evolution of artificial intelligence
 (AI) from specialized tools to collaborative research partners. This progression marks a pivotal stage in the
 **AI for Science paradigm**, where AI systems have moved from acting as computational oracles for targeted
 tasks toward the emergence of **Agentic Science**. In this stage, AI operates as an autonomous scientific agent capable of formulating hypotheses, designing and

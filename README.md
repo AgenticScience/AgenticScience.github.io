@@ -682,7 +682,6 @@ Finally, **Our Key Contributions** are as follows:
 
 ### Computational and Quantum Chemistry
 
-<h3>Computational and Quantum Chemistry</h3>
 <ul>
   <li>
     <i><b>El Agente: An autonomous agent for quantum chemistry</b></i>, Yunheng Zou, Austin H. Cheng, Abdulrahman Aldossary, Jiaru Bai, Shi Xuan Leong, Jorge Arturo Campos-Gonzalez-Angulo, Changhyeok Choi, Cher Tian Ser, Gary Tom, Andrew Wang, et al. 
@@ -840,77 +839,153 @@ Finally, **Our Key Contributions** are as follows:
 ---
 
 ### Advanced and Quantum Materials
-- **SciAgents: Automating scientific discovery through bioinspired multi-agent intelligent graph reasoning**  
-  *Alireza Ghafarollahi, Markus J. Buehler. Advanced Materials 2025*
 
-- **PriM: Principle-inspired material discovery through multi-agent collaboration**  
-  *Zheyuan Lai, Yingming Pu. arXiv 2025*
-
-- **TopoMAS: Large Language Model Driven Topological Materials Multiagent System**  
-  *Baohua Zhang, Xin Li, Huangchao Xu, Zhong Jin, Quansheng Wu, Ce Li. arXiv 2025* 
-
-
+<ul>
+  <li>
+    <i><b>SciAgents: Automating scientific discovery through bioinspired multi-agent intelligent graph reasoning</b></i>, Alireza Ghafarollahi, Markus J. Buehler. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Advanced%20Materials-2025-blue" alt="Advanced Materials 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>PriM: Principle-inspired material discovery through multi-agent collaboration</b></i>, Zheyuan Lai, Yingming Pu. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>TopoMAS: Large Language Model Driven Topological Materials Multiagent System</b></i>, Baohua Zhang, Xin Li, Huangchao Xu, Zhong Jin, Quansheng Wu, Ce Li. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ## Part 4: Agentic Physics and Astronomy Research
 
 ### General Frameworks and Methodologies
-- **MoRA: Improving physics reasoning in large language models using mixture of refinement agents**  
-  *Raj Jaiswal, Dhruv Jain, Harsh Parimal Popat, Avinash Anand, Abhishek Dharmadhikari, Atharva Marathe, Rajiv Ratn Shah. arXiv 2024*
 
-- **LP-COMDA: Physics-informed LLM-agent for automated modulation design in power electronics systems**  
-  *Junhua Liu, Fanfan Lin, Xinze Li, Kwan Hui Lim, Shuai Zhao. arXiv 2024*
-
-- **LLMSat: A large language model-based goal-oriented agent for autonomous space exploration**  
-  *David Maranto. arXiv 2024*
-
-- **CosmoAgent: What if LLMs have different world views: Simulating alien civilizations with LLM-based agents**  
-  *Zhaoqian Xue, Beichen Wang, Suiyuan Zhu, Kai Mei, Hua Tang, Wenyue Hua, Mengnan Du, Yongfeng Zhang. arXiv 2024*
+<ul>
+  <li>
+    <i><b>MoRA: Improving physics reasoning in large language models using mixture of refinement agents</b></i>, Raj Jaiswal, Dhruv Jain, Harsh Parimal Popat, Avinash Anand, Abhishek Dharmadhikari, Atharva Marathe, Rajiv Ratn Shah. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>LP-COMDA: Physics-informed LLM-agent for automated modulation design in power electronics systems</b></i>, Junhua Liu, Fanfan Lin, Xinze Li, Kwan Hui Lim, Shuai Zhao. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>LLMSat: A large language model-based goal-oriented agent for autonomous space exploration</b></i>, David Maranto. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>CosmoAgent: What if LLMs have different world views: Simulating alien civilizations with LLM-based agents</b></i>, Zhaoqian Xue, Beichen Wang, Suiyuan Zhu, Kai Mei, Hua Tang, Wenyue Hua, Mengnan Du, Yongfeng Zhang. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+</ul>
 
 ---
 
 ### Astronomy and Cosmology
-- **StarWhisper: Agent-based observation assistant system to approach AI astrophysicist**  
-  *Cunshi Wang, Xinjie Hu, Yu Zhang, Xunhao Chen, Pengliang Du, Yiming Mao, Rui Wang, Yuyang Li, Ying Wu, Hang Yang, et al. arXiv 2024*
 
-- **mephisto: Interpreting multi-band galaxy observations with large language model-based agents**  
-  *Zechang Sun, Yuan-Sen Ting, Yaobo Liang, Nan Duan, Song Huang, Zheng Cai. arXiv 2024*
-
-- **AI Agents for ground-based gamma astronomy**  
-  *Dmitriy Kostunin, Vladimir Sotnikov, Sergo Golovachev, Alexandre Strube. arXiv 2025*
-
-- **AI Cosmologist I: An Agentic System for Automated Data Analysis**  
-  *Adam Moss. arXiv 2025*
-
-- **MAS-Cosmology: Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation**  
-  *Danai Koutra, Lifu Huang, Adithya Kulkarni, Temiloluwa Prioleau, Beatrice Wan Yuan Soh, Qingyun Wu, Yujun Yan, Yaoqing Yang, Dawei Zhou, James Zou. ICLR Workshop 2025*
-
-- **SimAgents: Bridging Literature and the Universe Via A Multi-Agent Large Language Model System**  
-  *Xiaowen Zhang, Zhenyu Bi, Xuan Wang, Tiziana Di Matteo, Rupert A.C. Croft. arXiv 2025*
+<ul>
+  <li>
+    <i><b>StarWhisper: Agent-based observation assistant system to approach AI astrophysicist</b></i>, Cunshi Wang, Xinjie Hu, Yu Zhang, Xunhao Chen, Pengliang Du, Yiming Mao, Rui Wang, Yuyang Li, Ying Wu, Hang Yang, et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>mephisto: Interpreting multi-band galaxy observations with large language model-based agents</b></i>, Zechang Sun, Yuan-Sen Ting, Yaobo Liang, Nan Duan, Song Huang, Zheng Cai. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>AI Agents for ground-based gamma astronomy</b></i>, Dmitriy Kostunin, Vladimir Sotnikov, Sergo Golovachev, Alexandre Strube. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>AI Cosmologist I: An Agentic System for Automated Data Analysis</b></i>, Adam Moss. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>MAS-Cosmology: Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation</b></i>, Danai Koutra, Lifu Huang, Adithya Kulkarni, Temiloluwa Prioleau, Beatrice Wan Yuan Soh, Qingyun Wu, Yujun Yan, Yaoqing Yang, Dawei Zhou, James Zou. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/ICLR%20Workshop-2025-blue" alt="ICLR Workshop 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>SimAgents: Bridging Literature and the Universe Via A Multi-Agent Large Language Model System</b></i>, Xiaowen Zhang, Zhenyu Bi, Xuan Wang, Tiziana Di Matteo, Rupert A.C. Croft. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ---
 
 ### Computational Mechanics and Fluid Dynamics
-- **OpenFOAMGPT: A RAG-augmented LLM agent for OpenFOAM-based computational fluid dynamics**  
-  *Sandeep Pandey, Ran Xu, Wenkang Wang, Xu Chu. arXiv 2025*
 
-- **OpenFOAMGPT 2.0: End-to-end, trustworthy automation for computational fluid dynamics**  
-  *Jingsen Feng, Ran Xu, Xu Chu. arXiv 2025*
-
-- **LLM-Agent: A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis**  
-  *Jiachen Liu, Ziheng Geng, Ran Cao, Lu Cheng, Paolo Bocchini, Minghui Cheng. arXiv 2025*
-
-- **MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge**  
-  *Bo Ni, Markus J. Buehler. Extreme Mechanics Letters 2024*
-
-- **AutoGen-FEM: Optimizing Collaboration of Large Language Model Based Agents for Autonomous Finite Element Analysis**  
-  *Chuan Tian, et al. arXiv 2025*
+<ul>
+  <li>
+    <i><b>OpenFOAMGPT: A RAG-augmented LLM agent for OpenFOAM-based computational fluid dynamics</b></i>, Sandeep Pandey, Ran Xu, Wenkang Wang, Xu Chu. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>OpenFOAMGPT 2.0: End-to-end, trustworthy automation for computational fluid dynamics</b></i>, Jingsen Feng, Ran Xu, Xu Chu. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>LLM-Agent: A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis</b></i>, Jiachen Liu, Ziheng Geng, Ran Cao, Lu Cheng, Paolo Bocchini, Minghui Cheng. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge</b></i>, Bo Ni, Markus J. Buehler. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Extreme%20Mechanics%20Letters-2024-blue" alt="Extreme Mechanics Letters 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>AutoGen-FEM: Optimizing Collaboration of Large Language Model Based Agents for Autonomous Finite Element Analysis</b></i>, Chuan Tian, et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ---
 
 ### Quantum Computing
-- **k-agents: Agents for self-driving laboratories applied to quantum computing**  
-  *Shuxiang Cao, Zijian Zhang, Mohammed Alghadeer, Simone D. Fasciati, Michele Piscitelli, Mustafa Bakr, Peter Leek, Alán Aspuru-Guzik. arXiv 2024*
 
+<ul>
+  <li>
+    <i><b>k-agents: Agents for self-driving laboratories applied to quantum computing</b></i>, Shuxiang Cao, Zijian Zhang, Mohammed Alghadeer, Simone D. Fasciati, Michele Piscitelli, Mustafa Bakr, Peter Leek, Alán Aspuru-Guzik. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    </a>
+  </li>
+</ul>
+
+---
 
 ## 📖 Citation
 If you find this project helpful in your research, please consider cite:

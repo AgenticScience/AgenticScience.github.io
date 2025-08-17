@@ -20,11 +20,12 @@ showcases **how AI/Agent is becoming a creative scientist, accelerating and resh
 
 Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
 
-  <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; display: inline-block;">
-    <p>
+  <!-- 为最后两行设置灰色背景 -->
+  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 8px; margin-top: 20px; text-align: center;">
+    <p style="margin: 0;">
       🔔 🔔 🔔 For more detailed information, please refer to our paper ~
     </p>
-    <p>
+    <p style="margin: 0;">
       ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at {weijiaqi, yangyuejin}@pjlab.org.cn
     </p>
   </div>

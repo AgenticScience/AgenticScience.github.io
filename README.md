@@ -1,7 +1,9 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center;">
   <!-- 标题 -->
-  <h1 style="margin-right: 20px;">From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery 🤖</h1>
+  <h1 style="margin-right: 20px; white-space: nowrap;">
+    From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery 🤖
+  </h1>
   
   <!-- 图片 -->
   <img src="./figures/robot1.png" alt="Logo" style="width: 100px; height: auto;">

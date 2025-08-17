@@ -1,9 +1,11 @@
 <div align="center">
   <h1>From AI for Science to Agentic Science 🤖</h1>
+
+   <br><br>
+   
+  <img width="1200" alt="Shanghai AI Lab and Intern Discovery" src="./figures/fig_logo.png">
   
-  <img width="800" alt="Shanghai AI Lab and Intern Discovery" src="./figures/fig_logo.png">
-  
-  <br><br><br><br>
+  <br><br>
   
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)

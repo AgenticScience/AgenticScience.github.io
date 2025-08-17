@@ -34,7 +34,7 @@ Four-Step Discovery Cycle:
 
 We provide a **detailed review** of advancements across **life sciences, chemistry, materials science, and physics**, covering dozens of subfields and hundreds of studies.
 
-![Main areas](./su.png)
+![Main areas](./figures/fig_ScienticField.png)
 *Figure 1: Caption describing the main areas.*
 
 

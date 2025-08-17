@@ -996,7 +996,7 @@ Finally, **Our Key Contributions** are as follows:
 
 ## 👏 Contributing
 
-[Contributions](CONTRIBUTING) are highly encouraged! 
+Contributions are highly encouraged! 
 
 If you have a relevant paper that complements this taxonomy, feel free to submit a pull request or reach out to the author directly. 
 

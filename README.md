@@ -20,6 +20,8 @@
   Explore this **detailed repository** to understand how autonomous agents are revolutionizing natural science!
 
   🔔🔔🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
+
+  📪📪 If you have any questions, please feel free to contact us at **{weijiaqi, yangyuejin}@pjlab.org.cn** .
 </div>
 
 

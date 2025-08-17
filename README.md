@@ -994,11 +994,11 @@ Finally, **Our Key Contributions** are as follows:
 </ul>
 
 ---
-## 👏 Contribution
+## 👏 Contributing
 
-Contributions are highly encouraged! 
+[Contributions](CONTRIBUTING) are highly encouraged! 
 
-If you have a relevant paper, tool, or resource that complements this taxonomy, feel free to submit a pull request—or reach out to the author directly. 
+If you have a relevant paper or resource that complements this taxonomy, feel free to submit a pull request—or reach out to the author directly. 
 
 Your support will help expand and improve this repository!
 

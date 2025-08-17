@@ -12,9 +12,13 @@
   </p>
 
   <p>
-    This repository, part of the Intern Discovery project, showcases how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery.
+    This repository, part of the Intern Discovery project, 
   </p>
 
+  <p>
+    showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery.**
+  </p>
+  
   <p>
     Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
   </p>

@@ -12,8 +12,6 @@
   [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<br> 
-
   
 Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab.**
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>From AI for Science to Agentic Science 🤖</h1>
+  <h1>From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery 🤖</h1>
 
    <br><br>
    

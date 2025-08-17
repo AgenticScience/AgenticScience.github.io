@@ -1,32 +1,54 @@
 <div align="center">
 
-  <h1>From AI for Science to Agentic Science🤖: A Survey on Autonomous Scientific Discovery</h1>
+  <!-- 标题 -->
+  <h1>From AI for Science to Agentic Science 🤖: A Survey on Autonomous Scientific Discovery</h1>
 
-
+  <!-- 图片 -->
   <img width="700" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
 
-  <br> 
-  [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
-  [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
-  [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  
-    <br><br>
+  <!-- 徽章 -->
+  <br>
+  <div style="margin-top: 10px;">
+    <a href="https://agenticscience.github.io/">
+      <img src="https://img.shields.io/badge/Homepage-Visit-orange" alt="Project Homepage">
+    </a>
+    <a href="https://arxiv.org/">
+      <img src="https://img.shields.io/badge/arXiv-AgenticScience-red" alt="arXiv">
+    </a>
+    <a href="https://example.com/citations">
+      <img src="https://img.shields.io/badge/citation-0-blue" alt="Citation">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </a>
+  </div>
 
-Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the AI for Science Center, Shanghai AI Lab.
+  <!-- 段落 -->
+  <div style="text-align: center; max-width: 800px; margin: 20px auto; font-size: 1.1em; line-height: 1.6;">
+    <p>
+      Welcome to the repository maintained by ✨ <strong>Yuejin Yang</strong> and <strong>Jiaqi Wei</strong> ✨ from the 
+      <strong>AI for Science Center, Shanghai AI Lab</strong>.
+    </p>
+    <p>
+      This repository, part of the <strong>Intern Discovery</strong> project, showcases 
+      <em>how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery</em>.
+    </p>
+    <p>
+      Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
+    </p>
+  </div>
 
-This repository, part of the Intern Discovery project, 
+  <!-- 分隔线 -->
+  <hr style="width: 80%; border: 0; border-top: 1px solid #ccc; margin: 20px auto;">
 
-showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery**.
-
-Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
-
-***
-
-🔔 🔔 🔔 For more detailed information, please refer to our paper ~
-
-✉️ ➡️ 📪 If you have any questions, please feel free to contact us at {weijiaqi, yangyuejin}@pjlab.org.cn
-
+  <!-- 联系信息 -->
+  <div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; max-width: 800px; margin: 0 auto; line-height: 1.6; font-size: 1.1em;">
+    <p>🔔 🔔 🔔 For more detailed information, please refer to our paper ~</p>
+    <p>✉️ ➡️ 📪 If you have any questions, feel free to contact us at:</p>
+    <p>
+      <strong>{weijiaqi, yangyuejin}@pjlab.org.cn</strong>
+    </p>
+  </div>
 
 </div>
 

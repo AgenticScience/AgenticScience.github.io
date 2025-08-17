@@ -21,7 +21,7 @@
 
   🔔🔔🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
 </div>
-  ______________________________________________________________________
+______________________________________________________________________
 
 ## 👋 Introduction 
 

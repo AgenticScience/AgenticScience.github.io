@@ -1,31 +1,30 @@
 <div align="center">
-  
+
   <h1>From AI for Science to Agentic Science🤖: A Survey on Autonomous Scientific Discovery</h1>
-  
+
   <br><br>
   <img width="700" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
-  
+
   <br>
-  
-  [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
-  [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
-  [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  
-Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the AI for Science Center, Shanghai AI Lab. 
 
-This repository, part of the Intern Discovery project, 
+  <p>
+    Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the AI for Science Center, Shanghai AI Lab.
+  </p>
 
-showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery.**
+  <p>
+    This repository, part of the Intern Discovery project, showcases how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery.
+  </p>
 
-Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
+  <p>
+    Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
+  </p>
 
-  <!-- 为最后两行设置灰色背景 -->
-  <div style="background-color: #f0f0f0; padding: 15px; border-radius: 8px; margin-top: 20px; text-align: center;">
-    <p style="margin: 0;">
+  <!-- 强制灰色背景 -->
+  <div style="background-color: #f0f0f0 !important; padding: 15px !important; border-radius: 8px !important; margin-top: 20px !important; text-align: center !important;">
+    <p style="margin: 0 !important; color: #000 !important;">
       🔔 🔔 🔔 For more detailed information, please refer to our paper ~
     </p>
-    <p style="margin: 0;">
+    <p style="margin: 0 !important; color: #000 !important;">
       ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at {weijiaqi, yangyuejin}@pjlab.org.cn
     </p>
   </div>

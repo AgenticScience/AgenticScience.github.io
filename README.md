@@ -16,9 +16,9 @@ Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from t
 
 This repository, part of the Intern Discovery project, 
 
-showcases how AI is becoming a creative partner, accelerating and reshaping scientific discovery.
+showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery.**
 
-Explore this **detailed repository** to understand how autonomous agents are revolutionizing natural science!
+Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
 
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
 

@@ -60,7 +60,7 @@ Finally, **Our Key Contributions** are as follows:
 
 3. **Systematic Review Across Natural Sciences**
  We conduct a comprehensive review of agentic systems across the major domains of natural science:
-  - **Life Sciences**, **Chemistry**, **Materials Science**, and **Physics**.  
+      - **Life Sciences**, **Chemistry**, **Materials Science**, and **Physics**.  
 
 ______________________________________________________________________
 

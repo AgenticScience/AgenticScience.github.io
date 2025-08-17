@@ -18,9 +18,9 @@
 
   This repository highlights how AI is becoming a **creative partner**, accelerating and reshaping scientific discovery.
 
-  Explore this **focused, detailed repository** to understand how autonomous agents are revolutionizing science!
+  Explore this **detailed repository** to understand how autonomous agents are revolutionizing natural science!
 
-  🔔🔔 Please refer to [our paper](https://agenticscience.github.io/) for more detailed information ~
+  🔔🔔🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
 </div>
 
 ## 👋 Introduction 

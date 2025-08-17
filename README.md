@@ -499,7 +499,6 @@ Finally, **Our Key Contributions** are as follows:
 
 ### General Frameworks and Methodologies
 
-<h3>General Frameworks and Methodologies</h3>
 <ul>
   <li>
     <i><b>ChemCrow: Augmenting large-language models with chemistry tools</b></i>, Andres M. Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D. White, Philippe Schwaller. 
@@ -602,7 +601,6 @@ Finally, **Our Key Contributions** are as follows:
 
 ### Organic Synthesis and Reaction Optimization
 
-<h3>Organic Synthesis and Reaction Optimization</h3>
 <ul>
   <li>
     <i><b>Autonomous chemical research with large language models</b></i>, Daniil A. Boiko, Robert MacKnight, Ben Kline, Gabe Gomes. 
@@ -646,7 +644,6 @@ Finally, **Our Key Contributions** are as follows:
 
 ### Generative Chemistry and Molecular Design
 
-<h3>Generative Chemistry and Molecular Design</h3>
 <ul>
   <li>
     <i><b>ChatMOF: An autonomous AI system for predicting and generating metal-organic frameworks</b></i>, Yeonghun Kang, Jihan Kim. 
@@ -799,6 +796,7 @@ Finally, **Our Key Contributions** are as follows:
 ---
 
 ### Structural and Functional Materials
+
 <ul>
   <li>
     <i><b>AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence</b></i>, Alireza Ghafarollahi, Markus J. Buehler. 

@@ -4,15 +4,13 @@
   
   <img width="700" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
   
-  <br>
+  <br> <br>
   
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
   [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  
   <br>
-
 Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab.**
 
 This repository, part of the **Intern Discovery** project, 

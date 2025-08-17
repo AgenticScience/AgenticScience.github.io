@@ -1,7 +1,7 @@
 <div align="center">
   <h1>From AI for Science to Agentic Science 🤖</h1>
   
-  <img width="500" alt="Shanghai AI Lab and Intern Discovery" src="https://github.com/user-attachments/assets/930e6814-8a9f-43e1-a284-118a5732daa4">
+  <img width="500" alt="Shanghai AI Lab and Intern Discovery" src="./figures/fig_logo.png">
   
   <br>
   

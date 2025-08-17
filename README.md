@@ -256,12 +256,12 @@ Finally, **Our Key Contributions** are as follows:
 
 ## Part 1: Agentic Life Science Research
 
-- ### General Frameworks and Methodologies
+### General Frameworks and Methodologies
 
 <ul>
   <li>
     <i><b>Biomni: A General-Purpose Biomedical AI Agent</b></i>, Kexin Huang et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.07591" target="_blank">
       <img src="https://img.shields.io/badge/bioRxiv-2025-red" alt="bioRxiv 2025">
     </a>
   </li>

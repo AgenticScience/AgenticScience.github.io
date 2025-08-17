@@ -994,6 +994,13 @@ Finally, **Our Key Contributions** are as follows:
 </ul>
 
 ---
+## 👏 Contribution
+
+Contributions are highly encouraged! 
+
+If you have a relevant paper, tool, or resource that complements this taxonomy, feel free to submit a pull request—or reach out to the author directly. 
+
+Your support will help expand and improve this repository!
 
 ## 📖 Citation
 If you find this project helpful in your research, please consider cite:

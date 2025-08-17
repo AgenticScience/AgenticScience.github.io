@@ -24,7 +24,14 @@
 
 
 ## 👋 Introduction 
-
+<li>
+  <i>
+    <b>Scholarchemqa: Unveiling the power of language models in chemical research question answering</b>
+  </i>, Chen et al., 
+  <a href="https://arxiv.org/abs/2407.16931" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2024.07-red" alt="arXiv Badge">
+  </a>
+</li>
 **Scientific discovery** is experiencing a transformative shift, driven by the rapid evolution of artificial intelligence
 (AI) from specialized tools to collaborative research partners. This progression marks a pivotal stage in the
 **AI for Science paradigm**, where AI systems have moved from acting as computational oracles for targeted

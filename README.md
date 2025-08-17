@@ -2,7 +2,7 @@
   
   <h1>From AI for Science to Agentic Science🤖: A Survey on Autonomous Scientific Discovery</h1>
 
-  <img width="800" alt="Shanghai AI Lab and Intern Discovery" src="./figures/fig_logo.png">
+  <img width="500" alt="Shanghai AI Lab and Intern Discovery" src="./figures/shlab3.png">
   <br><br>
   
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)

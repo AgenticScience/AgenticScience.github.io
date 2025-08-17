@@ -7,10 +7,10 @@
 
   <br> 
    
-  [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
-  [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
-  [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)  
+  [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)  
+  [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 
   
 Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab !**

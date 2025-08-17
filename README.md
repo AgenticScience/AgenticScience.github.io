@@ -257,119 +257,240 @@ Finally, **Our Key Contributions** are as follows:
 ## Part 1: Agentic Life Science Research
 
 ### General Frameworks and Methodologies
-- **Biomni: A General-Purpose Biomedical AI Agent**  
-  *Kexin Huang, Serena Zhang, Hanchen Wang, Yuanhao Qu, Yingzhou Lu, Yusuf Roohani, Ryan Li, Lin Qiu, Junze Zhang, Di Yin, et al. bioRxiv 2025*
 
-- **STELLA: Self-Evolving LLM Agent for Biomedical Research**  
-  *Ruofan Jin, Zaixi Zhang, Mengdi Wang, Le Cong. arXiv 2025*
-
-- **From Intention to Implementation: Automating Biomedical Research via LLMs**  
-  *Yi Luo, Linghang Shi, Yihao Li, Aobo Zhuang, Yeyun Gong, Ling Liu, Chen Lin. Science China Information Sciences 2025*
-
-- **PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration**  
-  *Yingming Pu, Tao Lin, Hongyu Chen. arXiv 2025*
-
-- **Empowering Biomedical Discovery with AI Agents**  
-  *Shanghua Gao, Ada Fang, Yepeng Huang, Valentina Giunchiglia, Ayush Noori, Jonathan Richard Schwarz, Yasha Ektefaie, Jovana Kondic, Marinka Zitnik. Cell 2024*
-
+<ul>
+  <li>
+    <i><b>Biomni: A General-Purpose Biomedical AI Agent</b></i>, Kexin Huang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>STELLA: Self-Evolving LLM Agent for Biomedical Research</b></i>, Ruofan Jin et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>From Intention to Implementation: Automating Biomedical Research via LLMs</b></i>, Yi Luo et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Science%20China%20Information%20Sciences-2025-blue" alt="Science China Information Sciences 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration</b></i>, Yingming Pu et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>Empowering Biomedical Discovery with AI Agents</b></i>, Shanghua Gao et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Cell-2024-blue" alt="Cell 2024">
+    </a>
+  </li>
+</ul>
 
 ### Genomics, Transcriptomics and Multi-Omics Analysis
-- **GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases**  
-  *Zhizheng Wang, Qiao Jin, Chih-Hsuan Wei, Shubo Tian, et al. arXiv 2024*
-- **BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow**  
-  *Qi Xin, Quyu Kong, Hongyi Ji, Yue Shen, Yuqi Liu, Yan Sun, Zhilin Zhang, Zhaorong Li, Xunlong Xia, Bing Deng, et al. bioRxiv 2024*
 
-- **CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis**  
-  *Yihang Xiao, Jinyi Liu, Yan Zheng, Xiaohan Xie, Jianye Hao, Mingzhi Li, Ruitao Wang, Fei Ni, Yuxiao Li, Jintian Luo, et al. bioRxiv 2024*
-
-- **Toward a Team of AI-Made Scientists for Scientific Discovery from Gene Expression Data**  
-  *Haoyang Liu, Yijiang Li, Jinglin Jian, Yuxuan Cheng, Jianrong Lu, Shuyi Guo, Jinglei Zhu, Mianchen Zhang, Miantong Zhang, Haohan Wang. arXiv 2024*
-
-- **CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments**  
-  *Kaixuan Huang, Yuanhao Qu, Henry Cousins, William A. Johnson, Di Yin, Mihir Shah, Denny Zhou, Russ Altman, Mengdi Wang, Le Cong. arXiv 2024*
-
-- **SpatialAgent: An Autonomous AI Agent for Spatial Biology**  
-  *Hanchen Wang, Yichun He, Paula P. Coelho, Matthew Bucci, Abbas Nazir, Bob Chen, Linh Trinh, Serena Zhang, Kexin Huang, Vineethkrishna Chandrasekar, et al. bioRxiv 2025*
-
-- **PhenoGraph: A Multi-Agent Framework for Phenotype-Driven Discovery in Spatial Transcriptomics Data Augmented with Knowledge Graphs**  
-  *Seyednami Niyakan, Xiaoning Qian. bioRxiv 2025*
-
-- **BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems**  
-  *Nikita Mehandru, Amanda K. Hall, Olesya Melnichenko, Yulia Dubinina, Daniel Tsirulnikov, David Bamman, Ahmed Alaa, Scott Saponas, Venkat S. Malladi. arXiv 2025*
-
-- **BioMaster: Multi-Agent System for Automated Bioinformatics Analysis Workflow**  
-  *Houcheng Su, Weicai Long, Yanlin Zhang. bioRxiv 2025*
-
-- **TransAgent: Dynamizing Transcriptional Regulation Analysis via Multi-Omics-Aware AI Agent**  
-  *Guorui Zhang, Chao Song, Liyuan Liu, Qiuyu Wang, Chunquan Li. bioRxiv 2025*
-
-- **CompBioAgent: An LLM-Powered Agent for Single-Cell RNA-Seq Data Exploration**  
-  *Haotian Zhang, Yu H. Sun, Wenxing Hu, Xu Cui, Zhengyu Ouyang, Derrick Cheng, Xinmin Zhang, Baohong Zhang. bioRxiv 2025*
-
-- **PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments**  
-  *Minsheng Hao, Yongju Lee, Hanchen Wang, Gabriele Scalia, Aviv Regev. bioRxiv 2025*
-
-- **PROTEUS: Automating Exploratory Multiomics Research via Language Models**  
-  *Ning Ding, Shang Qu, Linhai Xie, Yifei Li, Zaoqu Liu, Kaiyan Zhang, Yibai Xiong, Yuxin Zuo, Zhangren Chen, Ermo Hua, et al. arXiv 2024/2025*
-
-- **CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data**  
-  *Samuel Alber, Bowen Chen, Eric Sun, Alina Isakova, Aaron James Wilk, James Zou. bioRxiv 2025*
-
-- **AstroAgents: A Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data**  
-  *Daniel Saeedi, Denise Buckner, Jose C. Aponte, Amirali Aghazadeh. arXiv 2025*
-
-- **BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments**  
-  *Yusuf Roohani, Andrew Lee, Qian Huang, Jian Vora, Zachary Steinhart, Kexin Huang, Alexander Marson, Percy Liang, Jure Leskovec. arXiv 2024*
-  
+  <ul>
+  <li>
+    <i><b>GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases</b></i>, Zhizheng Wang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>BioInformatics Agent (BIA): Unleashing the Power of Large Language Models to Reshape Bioinformatics Workflow</b></i>, Qi Xin et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis</b></i>, Yihang Xiao et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>Toward a Team of AI-Made Scientists for Scientific Discovery from Gene Expression Data</b></i>, Haoyang Liu et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments</b></i>, Kaixuan Huang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>SpatialAgent: An Autonomous AI Agent for Spatial Biology</b></i>, Hanchen Wang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>PhenoGraph: A Multi-Agent Framework for Phenotype-Driven Discovery in Spatial Transcriptomics Data Augmented with Knowledge Graphs</b></i>, Seyednami Niyakan et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>BioAgents: Democratizing Bioinformatics Analysis with Multi-Agent Systems</b></i>, Nikita Mehandru et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>BioMaster: Multi-Agent System for Automated Bioinformatics Analysis Workflow</b></i>, Houcheng Su et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>TransAgent: Dynamizing Transcriptional Regulation Analysis via Multi-Omics-Aware AI Agent</b></i>, Guorui Zhang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>CompBioAgent: An LLM-Powered Agent for Single-Cell RNA-Seq Data Exploration</b></i>, Haotian Zhang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>PerTurboAgent: A Self-Planning Agent for Boosting Sequential Perturb-seq Experiments</b></i>, Minsheng Hao et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>PROTEUS: Automating Exploratory Multiomics Research via Language Models</b></i>, Ning Ding et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024/2025-blue" alt="arXiv 2024/2025">
+    </a>
+  </li>
+  <li>
+    <i><b>CellVoyager: AI CompBio Agent Generates New Insights by Autonomously Analyzing Biological Data</b></i>, Samuel Alber et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>AstroAgents: A Multi-Agent AI for Hypothesis Generation from Mass Spectrometry Data</b></i>, Daniel Saeedi et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments</b></i>, Yusuf Roohani et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
+  </li>
+</ul>
 
 ### Protein Science and Engineering
-- **ProtAgents: Protein Discovery via Large Language Model Multi-Agent Collaborations Combining Physics and Machine Learning**  
-  *Alireza Ghafarollahi, Markus J. Buehler. Digital Discovery 2024*
 
-- **Sparks: Multi-Agent Artificial Intelligence Model Discovers Protein Design Principles**  
-  *Alireza Ghafarollahi, Markus J. Buehler. arXiv 2025*
-
+<ul>
+  <li>
+    <i><b>ProtAgents: Protein Discovery via Large Language Model Multi-Agent Collaborations Combining Physics and Machine Learning</b></i>, Alireza Ghafarollahi et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Digital%20Discovery-2024-blue" alt="Digital Discovery 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>Sparks: Multi-Agent Artificial Intelligence Model Discovers Protein Design Principles</b></i>, Alireza Ghafarollahi et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 ### Drug and Therapeutic Discovery
-- **The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation**  
-  *Kyle Swanson, Wesley Wu, Nash L. Bulaong, John E. Pak, James Zou. bioRxiv 2024*
 
-- **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery**  
-  *Zhongyue Zhang, Zijie Qiu, Yingcheng Wu, Shuya Li, Dingyan Wang, Zhuomin Zhou, Duo An, Yuhan Chen, Yu Li, Yongbo Wang, et al. bioRxiv 2025*
-
-- **Large Language Model Agent for Modular Task Execution in Drug Discovery**  
-  *Janghoon Ock, Radheesh Sharma Meda, Srivathsan Badrinarayanan, Neha S. Aluru, Achuth Chandrasekhar, Amir Barati Farimani. arXiv 2025*
-
-- **TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools**  
-  *Shanghua Gao, Richard Zhu, Zhenglun Kong, Ayush Noori, Xiaorui Su, Curtis Ginder, Theodoros Tsiligkaridis, Marinka Zitnik. arXiv 2025*
-
-- **Robin: A Multi-Agent System for Automating Scientific Discovery**  
-  *Ali Essam Ghareeb, Benjamin Chang, Ludovico Mitchener, Angela Yiu, Caralyn J. Szostkiewicz, Jon M. Laurent, Muhammed T. Razzak, Andrew D. White, Michaela M. Hinks, Samuel G. Rodriques. arXiv 2025*
-
-- **DrugAgent: Automating AI-Aided Drug Discovery Programming Through LLM Multi-Agent Collaboration**  
-  *Sizhe Liu, Yizhou Lu, Siyu Chen, Xiyang Hu, Jieyu Zhao, Yingzhou Lu, Yue Zhao. arXiv 2024*
-
-- **LIDDIA: Language-Based Intelligent Drug Discovery Agent**  
-  *Reza Averly, Frazier N. Baker, Xia Ning. arXiv 2025*
-
-- **PharmAgents: Building a Virtual Pharma with Large Language Model Agents**  
-  *Bowen Gao, Yanwen Huang, Yiqiao Liu, Wenxuan Xie, Wei-Ying Ma, Ya-Qin Zhang, Yanyan Lan. arXiv 2025*
-
-- **CLADD: RAG-Enhanced Collaborative LLM Agents for Drug Discovery**  
-  *Namkyeong Lee, Edward De Brouwer, Ehsan Hajiramezanali, Tommaso Biancalani, Chanyoung Park, Gabriele Scalia. arXiv 2025*
-
-- **Tippy: Accelerating Drug Discovery Through Agentic AI**  
-  *Yao Fehlis, Charles Crain, Aidan Jensen, Michael Watson, James Juhasz, Paul Mandel, Betty Liu, Shawn Mahon, Daren Wilson, Nick Lynch-Jonely, et al. arXiv 2025*
-
-- **ACEGEN: Reinforcement Learning of Generative Chemical Agents for Drug Discovery**  
-  *Albert Bou, Morgan Thomas, Sebastian Dittert, Carles Navarro, Maciej Majewski, Ye Wang, Shivam Patel, Gary Tresadern, Mazen Ahmad, Vincent Moens, et al. Journal of Chemical Information and Modeling 2024*
-
-- **Exploring Modularity of Agentic Systems for Drug Discovery**  
-  *Laura van Weesep, Samuel Genheden, Ola Engkvist, Jens Sjölund. arXiv 2025*
-
-- **DO Challenge: Can AI Agents Design and Implement Drug Discovery Pipelines?**  
-  *Khachik Smbatyan, Tsolak Ghukasyan, Tigran Aghajanyan, Hovhannes Dabaghyan, Sergey Adamyan, Aram Bughdaryan, Vahagn Altunyan, Gagik Navasardyan, Aram Davtyan, Anush Hakobyan, et al. arXiv 2025*
-
+<ul>
+  <li>
+    <i><b>The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation</b></i>, Kyle Swanson et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery</b></i>, Zhongyue Zhang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>Large Language Model Agent for Modular Task Execution in Drug Discovery</b></i>, Janghoon Ock et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools</b></i>, Shanghua Gao et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>Robin: A Multi-Agent System for Automating Scientific Discovery</b></i>, Ali Essam Ghareeb et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>DrugAgent: Automating AI-Aided Drug Discovery Programming Through LLM Multi-Agent Collaboration</b></i>, Sizhe Liu et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>LIDDIA: Language-Based Intelligent Drug Discovery Agent</b></i>, Reza Averly et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>PharmAgents: Building a Virtual Pharma with Large Language Model Agents</b></i>, Bowen Gao et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>CLADD: RAG-Enhanced Collaborative LLM Agents for Drug Discovery</b></i>, Namkyeong Lee et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>Tippy: Accelerating Drug Discovery Through Agentic AI</b></i>, Yao Fehlis et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>ACEGEN: Reinforcement Learning of Generative Chemical Agents for Drug Discovery</b></i>, Albert Bou et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Journal%20of%20Chemical%20Information%20and%20Modeling-2024-blue" alt="Journal of Chemical Information and Modeling 2024">
+    </a>
+  </li>
+  <li>
+    <i><b>Exploring Modularity of Agentic Systems for Drug Discovery</b></i>, Laura van Weesep et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>DO Challenge: Can AI Agents Design and Implement Drug Discovery Pipelines?</b></i>, Khachik Smbatyan et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
+  </li>
+</ul>
 
 
 ## Part 2: Agentic Chemistry Research

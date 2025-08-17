@@ -10,7 +10,7 @@
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
   [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   
   
 
@@ -507,10 +507,6 @@ Finally, **Our Key Contributions** are as follows:
 - **k-agents: Agents for self-driving laboratories applied to quantum computing**  
   *Shuxiang Cao, Zijian Zhang, Mohammed Alghadeer, Simone D. Fasciati, Michele Piscitelli, Mustafa Bakr, Peter Leek, Alán Aspuru-Guzik. arXiv 2024*
 
-
-## ⚠️ License
-
-This project is released under the [MIT license](LICENSE)
 
 ## 📖 Citation
 If you find this project helpful in your research, please consider cite:

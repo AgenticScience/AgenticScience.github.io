@@ -1,10 +1,6 @@
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; flex-wrap: nowrap;">
-  <!-- 标题 -->
-  <h1 style="margin-right: 20px; white-space: nowrap; font-size: 24px;">
-    From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery 🤖
-  </h1>
-
+  
+  <h1>From AI for Science to Agentic Science🤖: A Survey on Autonomous Scientific Discovery</h1>
   
   <br><br>
   

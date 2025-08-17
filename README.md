@@ -12,9 +12,7 @@
   [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   
-  
- ______________________________________________________________________
-        
+          
   Welcome to the Repo maintained by ✨ **Yuejin Yang**, **Jiaqi Wei**, & **Xiang Zhang** ✨ ~
 
   This repository highlights how AI is becoming a **creative partner**, accelerating and reshaping scientific discovery.
@@ -23,6 +21,7 @@
 
   🔔🔔🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
 </div>
+ ______________________________________________________________________
 
 ## 👋 Introduction 
 

@@ -12,21 +12,17 @@
   [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   
-  Welcome to our repository !
+Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the AI for Science Center, Shanghai AI Lab. 
 
-  This repository is maintained by ✨ Yuejin Yang and Jiaqi Wei ✨, 
-  
-  part of the Science Intelligence Center at Shanghai Artificial Intelligence Laboratory, 
-  
-  and is associated with the Intern Discovery project.
+This repository, part of the Intern Discovery project, 
 
-  This repository highlights how AI is becoming a **creative partner**, accelerating and reshaping scientific discovery.
+showcases how AI is becoming a creative partner, accelerating and reshaping scientific discovery.
 
-  Explore this **detailed repository** to understand how autonomous agents are revolutionizing natural science!
+Explore this **detailed repository** to understand how autonomous agents are revolutionizing natural science!
 
-  🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
+🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
 
-  ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at  **{weijiaqi, yangyuejin}@pjlab.org.cn** 
+✉️ ➡️ 📪 If you have any questions, please feel free to contact us at  **{weijiaqi, yangyuejin}@pjlab.org.cn** 
 </div>
 
 

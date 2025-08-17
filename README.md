@@ -22,7 +22,6 @@
   🔔🔔🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
 </div>
 
-______________________________________________________________________
 
 ## 👋 Introduction 
 
@@ -59,6 +58,36 @@ Finally, **Our Key Contributions** are as follows:
  We conduct a comprehensive review of agentic systems across the major domains of natural science:
   - **Life Sciences**, **Chemistry**, **Materials Science**, and **Physics**.  
 
+______________________________________________________________________
+
+## 📢 Contents
+
+- [Part 0: Fully Autonomous Research Pipeline](#part-0-fully-autonomous-research-pipeline)
+
+- [Part 1: Agentic Life Science Research](#part-1-agentic-life-science-research)
+  - [General Frameworks and Methodologies](#general-frameworks-and-methodologies)
+  - [Genomics, Transcriptomics and Multi-Omics Analysis](#genomics-transcriptomics-and-multi-omics-analysis)
+  - [Protein Science and Engineering](#protein-science-and-engineering)
+  - [Drug and Therapeutic Discovery](#drug-and-therapeutic-discovery)
+
+- [Part 2: Agentic Chemistry Research](#part-2-agentic-chemistry-research)
+  - [General Frameworks and Methodologies](#general-frameworks-and-methodologies-1)
+  - [Organic Synthesis and Reaction Optimization](#organic-synthesis-and-reaction-optimization)
+  - [Generative Chemistry and Molecular Design](#generative-chemistry-and-molecular-design)
+  - [Computational and Quantum Chemistry](#computational-and-quantum-chemistry)
+
+- [Part 3: Agentic Materials Science Research](#part-3-agentic-materials-science-research)
+  - [General Frameworks and Automated Workflows](#general-frameworks-and-automated-workflows)
+  - [Structural and Functional Materials](#structural-and-functional-materials)
+  - [Advanced and Quantum Materials](#advanced-and-quantum-materials)
+
+- [Part 4: Agentic Physics and Astronomy Research](#part-4-agentic-physics-and-astronomy-research)
+  - [General Frameworks and Methodologies](#general-frameworks-and-methodologies-2)
+  - [Astronomy and Cosmology](#astronomy-and-cosmology)
+  - [Computational Mechanics and Fluid Dynamics](#computational-mechanics-and-fluid-dynamics)
+  - [Quantum Computing](#quantum-computing)
+  
+  
 
 
 

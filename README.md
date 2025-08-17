@@ -13,7 +13,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
   
-Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab.**
+Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab !**
 
 This repository, part of the **Intern Discovery** project, 
 

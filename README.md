@@ -256,7 +256,7 @@ Finally, **Our Key Contributions** are as follows:
 
 ## Part 1: Agentic Life Science Research
 
-### General Frameworks and Methodologies
+- ### General Frameworks and Methodologies
 
 <ul>
   <li>

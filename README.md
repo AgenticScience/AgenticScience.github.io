@@ -34,7 +34,7 @@ executing experiments, interpreting results, and iteratively refining theories w
 ![Main areas](./figures/fig_roadmap.png)
 *Figure 1: Caption describing the main areas.*
 
----
+***
 
 Despite significant progress, a unified framework for understanding and designing increasingly autonomous scientific systems is still lacking. While existing work has laid valuable foundations, it remains fragmented—focusing separately on workflows, autonomy scales, or architectures, and often lacking a clear emphasis on the natural sciences. To bridge these gaps, our work integrates and extends these perspectives through a comprehensive framework. Additionally, we present the first domain-oriented review of autonomous scientific discovery, offering a detailed synthesis of research advancements and key discoveries within each discipline.
 

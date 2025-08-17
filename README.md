@@ -97,134 +97,160 @@ Finally, **Our Key Contributions** are as follows:
 
 <ul>
   <li>
-    <i><b>SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?</b></i>, Jingyi Chai, Shuo Tang, Rui Ye, Yuwen Du, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?</b></i>, Jingyi Chai et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>NovelSeek: When Agent Becomes the Scientist--Building Closed-Loop System from Hypothesis to Verification</b></i>, NovelSeek Team, Bo Zhang, Shiyang Feng, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>NovelSeek: When Agent Becomes the Scientist--Building Closed-Loop System from Hypothesis to Verification</b></i>, Bo Zhang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Large language models for automated open-domain scientific hypotheses discovery</b></i>, Zonglin Yang, Xinya Du, Junxian Li, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2023-blue" alt="arXiv 2023">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2023]</a>
+    <i><b>Large language models for automated open-domain scientific hypotheses discovery</b></i>, Zonglin Yang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-blue" alt="arXiv 2023">
+    </a>
   </li>
   <li>
-    <i><b>Maps: A multi-agent framework based on big seven personality and socratic guidance for multimodal scientific problem solving</b></i>, Jian Zhang, Zhiyuan Wang, Zhangqi Wang, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>Maps: A multi-agent framework based on big seven personality and socratic guidance for multimodal scientific problem solving</b></i>, Jian Zhang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Agentrxiv: Towards collaborative autonomous research</b></i>, Samuel Schmidgall, Michael Moor. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>Agentrxiv: Towards collaborative autonomous research</b></i>, Samuel Schmidgall et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback</b></i>, Jiakang Yuan, Xiangchao Yan, Botian Shi, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback</b></i>, Jiakang Yuan et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Towards an AI co-scientist</b></i>, Juraj Gottweis, Wei-Hung Weng, Alexander Daryin, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>Towards an AI co-scientist</b></i>, Juraj Gottweis et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>The AI scientist: Towards fully automated open-ended scientific discovery</b></i>, Chris Lu, Cong Lu, Robert Tjarko Lange, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2024]</a>
+    <i><b>The AI scientist: Towards fully automated open-ended scientific discovery</b></i>, Chris Lu et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
   </li>
   <li>
-    <i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Kyle Swanson, Wesley Wu, Nash L. Bulaong, et al. 
-    <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[bioRxiv 2024]</a>
+    <i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Kyle Swanson et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2024-green" alt="bioRxiv 2024">
+    </a>
   </li>
   <li>
-    <i><b>SpatialAgent: An autonomous AI agent for spatial biology</b></i>, Hanchen Wang, Yichun He, Paula P. Coelho, et al. 
-    <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[bioRxiv 2025]</a>
+    <i><b>SpatialAgent: An autonomous AI agent for spatial biology</b></i>, Hanchen Wang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Biomni: A general-purpose biomedical AI agent</b></i>, Kexin Huang, Serena Zhang, Hanchen Wang, et al. 
-    <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[bioRxiv 2025]</a>
+    <i><b>Biomni: A general-purpose biomedical AI agent</b></i>, Kexin Huang et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Automating exploratory proteomics research via language models</b></i>, Ning Ding, Shang Qu, Linhai Xie, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2024]</a>
+    <i><b>Automating exploratory proteomics research via language models</b></i>, Ning Ding et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
   </li>
   <li>
-    <i><b>Matpilot: An LLM-enabled AI materials scientist under the framework of human-machine collaboration</b></i>, Ziqi Ni, Yahao Li, Kaijia Hu, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2024]</a>
+    <i><b>Matpilot: An LLM-enabled AI materials scientist under the framework of human-machine collaboration</b></i>, Ziqi Ni et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
   </li>
   <li>
-    <i><b>Tora: A tool-integrated reasoning agent for mathematical problem solving</b></i>, Zhibin Gou, Zhihong Shao, Yeyun Gong, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2023-blue" alt="arXiv 2023">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2023]</a>
+    <i><b>Tora: A tool-integrated reasoning agent for mathematical problem solving</b></i>, Zhibin Gou et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-blue" alt="arXiv 2023">
+    </a>
   </li>
   <li>
-    <i><b>STELLA: Self-Evolving LLM Agent for Biomedical Research</b></i>, Ruofan Jin, Zaixi Zhang, Mengdi Wang, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>STELLA: Self-Evolving LLM Agent for Biomedical Research</b></i>, Ruofan Jin et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Two heads are better than one: A multi-agent system has the potential to improve scientific idea generation</b></i>, Haoyang Su, Renqi Chen, Shixiang Tang, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2024]</a>
+    <i><b>Two heads are better than one: A multi-agent system has the potential to improve scientific idea generation</b></i>, Haoyang Su et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
   </li>
   <li>
-    <i><b>Dora AI scientist: Multi-agent virtual research team for scientific exploration discovery and automated report generation</b></i>, Vladimir Naumov, Diana Zagirova, Sha Lin, et al. 
-    <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[bioRxiv 2025]</a>
+    <i><b>Dora AI scientist: Multi-agent virtual research team for scientific exploration discovery and automated report generation</b></i>, Vladimir Naumov et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2025-green" alt="bioRxiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>DiscoveryWorld: A virtual environment for developing and evaluating automated scientific discovery agents</b></i>, Peter Jansen, Marc-Alexandre Côté, Tushar Khot, et al. 
-    <img src="https://img.shields.io/badge/NeurIPS-2024-green" alt="NeurIPS 2024">
-    <br><a href="[链接待补充]" target="_blank">[NeurIPS 2024]</a>
+    <i><b>DiscoveryWorld: A virtual environment for developing and evaluating automated scientific discovery agents</b></i>, Peter Jansen et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/NeurIPS-2024-green" alt="NeurIPS 2024">
+    </a>
   </li>
   <li>
-    <i><b>Autonomous chemical research with large language models</b></i>, Daniil A. Boiko, Robert MacKnight, Ben Kline, et al. 
-    <img src="https://img.shields.io/badge/Nature-2023-blue" alt="Nature 2023">
-    <br><a href="[链接待补充]" target="_blank">[Nature 2023]</a>
+    <i><b>Autonomous chemical research with large language models</b></i>, Daniil A. Boiko et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Nature-2023-blue" alt="Nature 2023">
+    </a>
   </li>
   <li>
-    <i><b>ResearchAgent: Iterative research idea generation over scientific literature with large language models</b></i>, Jinheon Baek, Sujay Kumar Jauhar, Silviu Cucerzan, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2024]</a>
+    <i><b>ResearchAgent: Iterative research idea generation over scientific literature with large language models</b></i>, Jinheon Baek et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
   </li>
   <li>
-    <i><b>Agent laboratory: Using LLM agents as research assistants</b></i>, Samuel Schmidgall, Yusheng Su, Ze Wang, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>Agent laboratory: Using LLM agents as research assistants</b></i>, Samuel Schmidgall et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Agent hospital: A simulacrum of hospital with evolvable medical agents</b></i>, Junkai Li, Yunghwei Lai, Weitao Li, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2024]</a>
+    <i><b>Agent hospital: A simulacrum of hospital with evolvable medical agents</b></i>, Junkai Li et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
   </li>
   <li>
-    <i><b>Conversational health agents: A personalized LLM-powered agent framework</b></i>, Mahyar Abbasian, Iman Azimi, Amir M. Rahmani, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2023-blue" alt="arXiv 2023">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2023]</a>
+    <i><b>Conversational health agents: A personalized LLM-powered agent framework</b></i>, Mahyar Abbasian et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-blue" alt="arXiv 2023">
+    </a>
   </li>
   <li>
-    <i><b>An automatic end-to-end chemical synthesis development platform powered by large language models</b></i>, Yixiang Ruan, Chenyin Lu, Ning Xu, et al. 
-    <img src="https://img.shields.io/badge/Nature%20Communications-2024-green" alt="Nature Communications 2024">
-    <br><a href="[链接待补充]" target="_blank">[Nature Communications 2024]</a>
+    <i><b>An automatic end-to-end chemical synthesis development platform powered by large language models</b></i>, Yixiang Ruan et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/Nature%20Communications-2024-green" alt="Nature Communications 2024">
+    </a>
   </li>
   <li>
-    <i><b>AlphaEvolve: A coding agent for scientific and algorithmic discovery</b></i>, Alexander Novikov, Ngân Vũ, Marvin Eisenberger, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2025]</a>
+    <i><b>AlphaEvolve: A coding agent for scientific and algorithmic discovery</b></i>, Alexander Novikov et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-green" alt="arXiv 2025">
+    </a>
   </li>
   <li>
-    <i><b>Accelerated end-to-end chemical synthesis development with large language models</b></i>, Yixiang Ruan, Chenyin Lu, Ning Xu, et al. 
-    <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
-    <br><a href="[链接待补充]" target="_blank">[arXiv 2024]</a>
+    <i><b>Accelerated end-to-end chemical synthesis development with large language models</b></i>, Yixiang Ruan et al. 
+    <a href="[链接待补充]" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-blue" alt="arXiv 2024">
+    </a>
   </li>
 </ul>
 

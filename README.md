@@ -16,21 +16,46 @@ Explore this **focused, detailed repository** to understand how autonomous agent
 
 ## 👋 Introduction 
 
-**Agentic Science** represents a groundbreaking shift where AI evolves from a tool to an **autonomous agent**, capable of **reasoning, planning, conducting experiments, and refining ideas** independently.
-This repository presents the **first comprehensive framework** for Agentic Science, focusing on:
+Scientific discovery is experiencing a transformative shift, driven by the rapid evolution of artificial intelligence
+(AI) from specialized tools to collaborative research partners. This progression marks a pivotal stage in the
+**AI for Science paradigm**, where AI systems have moved from acting as computational oracles for targeted
+tasks toward the emergence of **Agentic Science**. In this stage, AI operates as an autonomous scientific agent capable of formulating hypotheses, designing and
+executing experiments, interpreting results, and iteratively refining theories with reduced dependence on human guidance.
 
-| **Five Key Abilities of Scientific Agents** | **Four-Step Discovery Cycle** |
-|---------------------------------------------|-------------------------------|
-| 1. **Planning and reasoning**               | 1. **Observation and hypothesis generation** |
-| 2. **Tool use and integration**             | 2. **Experimental planning and execution**   |
-| 3. **Memory mechanism**                     | 3. **Result analysis**                       |
-| 4. **Collaboration with other agents**      | 4. **Evolution**                             |
-| 5. **Optimization and evolution**           |                                           |
+![Main areas](./figures/fig_Stage.png)
+*Figure 1: Caption describing the main areas.*
 
-We provide a **detailed review** of advancements across **life sciences, chemistry, materials science, and physics**, covering dozens of subfields and hundreds of studies.
+Despite significant progress, a unified framework for understanding and designing increasingly autonomous scientific systems is still lacking. While existing work has laid valuable foundations, it remains fragmented—focusing separately on workflows, autonomy scales, or architectures, and often lacking a clear emphasis on the natural sciences. To bridge these gaps, our work integrates and extends these perspectives through a comprehensive framework. Additionally, we present the first domain-oriented review of autonomous scientific discovery, offering a detailed synthesis of research advancements and key discoveries within each discipline.
 
 ![Main areas](./figures/fig_ScienticField.png)
-*Figure 1: Caption describing the main areas.*
+*Figure 2: Caption describing the main areas.*
+
+### Our Key Contributions
+
+#### **Five Core Capabilities**
+We identify and analyze the foundational capabilities required for a scientific agent:
+1. **Reasoning and Planning**: Enabling agents to form hypotheses, strategize, and plan experiments.
+2. **Tool Integration**: Seamlessly incorporating tools to execute tasks and experiments.
+3. **Memory Mechanisms**: Storing, retrieving, and utilizing knowledge for iterative refinement.
+4. **Multi-Agent Collaboration**: Facilitating cooperation and communication among multiple agents.
+5. **Adaptive Optimization**: Dynamically improving processes and outcomes based on feedback.
+
+#### **Dynamic Workflow**
+We model the scientific discovery process as a flexible four-stage workflow:
+1. **Observation and Hypothesis Generation**: Collecting data and formulating hypotheses.
+2. **Experimental Planning and Execution**: Designing and conducting targeted experiments.
+3. **Data Interpretation and Analysis**: Extracting insights and validating results.
+4. **Synthesis and Iterative Refinement**: Integrating findings and refining approaches.
+
+#### **Systematic Review**
+We conduct a comprehensive review of agentic systems across the major domains of natural science:
+- **Life Sciences**, **Chemistry**, **Materials Science**, and **Physics**.  
+Our analysis spans diverse subfields, showcasing broad applicability and domain-specific innovations, from drug discovery to materials design.
+
+
+
+
+
 
 
 ## Part 0: Fully Autonomous Research Pipeline

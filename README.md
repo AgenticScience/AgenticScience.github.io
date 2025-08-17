@@ -7,31 +7,20 @@
 
   <br>
 
-  <p>
-    Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the AI for Science Center, Shanghai AI Lab.
-  </p>
 
-  <p>
-    This repository, part of the Intern Discovery project, 
-  </p>
+Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the AI for Science Center, Shanghai AI Lab.
 
-  <p>
-    showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery.**
-  </p>
-  
-  <p>
-    Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
-  </p>
+This repository, part of the Intern Discovery project, 
 
-  <!-- 强制灰色背景 -->
-  <div style="background-color: #f0f0f0 !important; padding: 15px !important; border-radius: 8px !important; margin-top: 20px !important; text-align: center !important;">
-    <p style="margin: 0 !important; color: #000 !important;">
-      🔔 🔔 🔔 For more detailed information, please refer to our paper ~
-    </p>
-    <p style="margin: 0 !important; color: #000 !important;">
-      ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at {weijiaqi, yangyuejin}@pjlab.org.cn
-    </p>
-  </div>
+showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery**.
+
+Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
+
+
+🔔 🔔 🔔 For more detailed information, please refer to our paper ~
+
+✉️ ➡️ 📪 If you have any questions, please feel free to contact us at {weijiaqi, yangyuejin}@pjlab.org.cn
+
 
 </div>
 

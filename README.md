@@ -1,25 +1,25 @@
 <div align="center">
- 
-# From AI for Science to Agentic Science 🤖️
-
-<div align="center">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/930e6814-8a9f-43e1-a284-118a5732daa4">
+  <h1>From AI for Science to Agentic Science 🤖</h1>
+  
+  <img width="500" alt="Shanghai AI Lab and Intern Discovery" src="https://github.com/user-attachments/assets/930e6814-8a9f-43e1-a284-118a5732daa4">
+  
   <br>
+  
+  [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
+  [![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+  
+  <br><br>
+
+  Welcome to the Repo maintained by ✨ **Yuejin Yang**, **Jiaqi Wei**, & **Xiang Zhang** ✨ ~
+
+  This repository highlights how AI is becoming a **creative partner**, accelerating and reshaping scientific discovery.
+
+  Explore this **focused, detailed repository** to understand how autonomous agents are revolutionizing science!
+
+  🔔🔔 Please refer to [our paper](https://agenticscience.github.io/) for more detailed information ~
 </div>
-
-[![Project Homepage](https://img.shields.io/badge/Homepage-Visit-orange)](https://agenticscience.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/)
-[![Citation](https://img.shields.io/badge/citation-0-blue)](https://example.com/citations)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-
-Welcome to the Repo maintained by 🌟 Yuejin Yang & Jiaqi Wei & Xiang Zhang 🌟 ~
-
-This repository highlights how AI is becoming a **creative partner**, accelerating and reshaping scientific discovery.
-
-Explore this **focused, detailed repository** to understand how autonomous agents are revolutionizing science!
-
-🔔🔔🔔 Please refer to [our paper](https://agenticscience.github.io/) for more detailed information ～
 
 ## 👋 Introduction 
 

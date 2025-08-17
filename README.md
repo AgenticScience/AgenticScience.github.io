@@ -1,7 +1,7 @@
 <div align="center">
   <h1>From AI for Science to Agentic Science 🤖</h1>
   
-  <img width="500" alt="Shanghai AI Lab and Intern Discovery" src="https://github.com/user-attachments/assets/930e6814-8a9f-43e1-a284-118a5732daa4">
+  <img width="700" alt="Shanghai AI Lab and Intern Discovery" src="https://github.com/user-attachments/assets/930e6814-8a9f-43e1-a284-118a5732daa4">
   
   <br>
   
@@ -12,21 +12,21 @@
   
   <br><br>
 
-Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the AI for Science Center, Shanghai AI Lab.
+Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab.**
 
-This repository, part of the Intern Discovery project, 
+This repository, part of the **Intern Discovery** project, 
 
 showcases **how AI/Agent is becoming a creative scientist, accelerating and reshaping scientific discovery**.
 
 Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
 
-***
 
-🔔 🔔 🔔 For more detailed information, please refer to our paper ~
+
+🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) ~
 
 ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
 
-{weijiaqi, yangyuejin}@pjlab.org.cn
+**{weijiaqi, yangyuejin}@pjlab.org.cn**
 
 
 </div>

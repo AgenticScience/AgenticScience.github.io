@@ -508,9 +508,12 @@ Finally, **Our Key Contributions** are as follows:
   *Shuxiang Cao, Zijian Zhang, Mohammed Alghadeer, Simone D. Fasciati, Michele Piscitelli, Mustafa Bakr, Peter Leek, Alán Aspuru-Guzik. arXiv 2024*
 
 
+## ⚠️ License
+
+This project is released under the [MIT license](LICENSE)
 
 ## 📖 Citation
-If you find this project helpful, please consider citing it:
+If you find this project helpful in your research, please consider cite:
 ```bibtex
 @article{your_project_name,
   title = {Your Project Title},

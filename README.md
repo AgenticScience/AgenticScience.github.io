@@ -108,61 +108,61 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?</b></i>, Jingyi Chai et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2507.05241" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>NovelSeek: When Agent Becomes the Scientist--Building Closed-Loop System from Hypothesis to Verification</b></i>, Bo Zhang et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2505.16938 target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>Large language models for automated open-domain scientific hypotheses discovery</b></i>, Zonglin Yang et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2309.02726" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
     </a>
   </li>
   <li>
     <i><b>Maps: A multi-agent framework based on big seven personality and socratic guidance for multimodal scientific problem solving</b></i>, Jian Zhang et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2503.16905" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>Agentrxiv: Towards collaborative autonomous research</b></i>, Samuel Schmidgall et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2503.18102" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback</b></i>, Jiakang Yuan et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250103916Y/abstract" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>Towards an AI co-scientist</b></i>, Juraj Gottweis et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2502.18864" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>The AI scientist: Towards fully automated open-ended scientific discovery</b></i>, Chris Lu et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2408.06292" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>The virtual lab: AI agents design new SARS-CoV-2 nanobodies with experimental validation</b></i>, Kyle Swanson et al. 
-    <a href="[链接待补充]" target="_blank">
-      <img src="https://img.shields.io/badge/bioRxiv-2024-red" alt="bioRxiv 2024">
+    <a href="https://www.nature.com/articles/s41586-025-09442-9" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2024-red" alt="Nature 2025">
     </a>
   </li>
   <li>
     <i><b>SpatialAgent: An autonomous AI agent for spatial biology</b></i>, Hanchen Wang et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.biorxiv.org/content/10.1101/2025.04.03.646459v1" target="_blank">
       <img src="https://img.shields.io/badge/bioRxiv-2025-red" alt="bioRxiv 2025">
     </a>
   </li>

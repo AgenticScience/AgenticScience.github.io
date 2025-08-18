@@ -511,97 +511,97 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>ChemCrow: Augmenting large-language models with chemistry tools</b></i>, Andres M. Bran, Sam Cox, Oliver Schilter, Carlo Baldassari, Andrew D. White, Philippe Schwaller. 
-    <a href="[链接待补充]" target="_blank">
-      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    <a href="https://www.nature.com/articles/s42256-024-00832-8.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="Nature 2024">
     </a>
   </li>
   <li>
     <i><b>A multiagent-driven robotic AI chemist enabling autonomous chemical research on demand</b></i>, Tao Song, Man Luo, Xiaolong Zhang, Linjiang Chen, Yan Huang, Jiaqi Cao, Qing Zhu, Daobin Liu, Baicheng Zhang, Gang Zou, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/66a625c001103d79c5043c48/original/a-multi-agent-driven-robotic-ai-chemist-enabling-autonomous-chemical-research-on-demand.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Journal%20of%20the%20American%20Chemical%20Society-2025-blue" alt="Journal of the American Chemical Society 2025">
     </a>
   </li>
   <li>
     <i><b>MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses</b></i>, Zonglin Yang, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2410.07076" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>MOOSE-Chem3: Toward Experiment-Guided Hypothesis Ranking via Simulated Experimental Feedback</b></i>, Wanhao Liu, Zonglin Yang, Jue Wang, Lidong Bing, Di Zhang, Dongzhan Zhou, Yuqiang Li, Houqiang Li, Erik Cambria, Wanli Ouyang. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.17873" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>An autonomous large language model agent for chemical literature data mining</b></i>, Kexin Chen, Hanqun Cao, Junyou Li, Yuyang Du, Menghao Guo, Xin Zeng, Lanqing Li, Jiezhong Qiu, Pheng Ann Heng, Guangyong Chen. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2402.12993" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>Agent-based learning of materials datasets from the scientific literature</b></i>, Mehrad Ansari, Seyed Mohamad Moosavi. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://pubs.rsc.org/de-at/content/articlepdf/2024/dd/d4dd00252k" target="_blank">
       <img src="https://img.shields.io/badge/Digital%20Discovery-2024-blue" alt="Digital Discovery 2024">
     </a>
   </li>
   <li>
     <i><b>ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning</b></i>, Mengsong Wu, YaFei Wang, Yidong Ming, Yuqi An, Yuwei Wan, Wenliang Chen, Binbin Lin, Yuqiang Li, Tong Xie, Dongzhan Zhou. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.07551" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>ChemHAS: Hierarchical Agent Stacking for Enhancing Chemistry Tools</b></i>, Zhucong Li, Bowei Zhang, Jin Xiao, Zhijian Zhou, Fenglei Cao, Jiaqing Liang, Yuan Qi. 
-    <a href="[链接待补充]" target="_blank">
+    <a href=https://arxiv.org/pdf/2505.21569?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>ChemToolAgent: The impact of tools on language agents for chemistry problem solving</b></i>, Botao Yu, Frazier N. Baker, Ziru Chen, Garrett Herb, Boyu Gou, Daniel Adu-Ampratwum, Xia Ning, Huan Sun. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2411.07228" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>Chemagent: Self-updating library in large language models improves chemical reasoning</b></i>, Xiangru Tang, Tianyu Hu, Muyang Ye, Yanjun Shao, Xunjian Yin, Siru Ouyang, Wangchunshu Zhou, Pan Lu, Zhuosheng Zhang, Yilun Zhao, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2501.06590" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents</b></i>, Rui Li, Zixuan Hu, Wenxi Qu, Jinouwen Zhang, Zhenfei Yin, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.22634" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>Cactus: Chemistry agent connecting tool usage to science</b></i>, Andrew D. McNaughton, Gautham Krishna Sankar Ramalaxmi, Agustin Kruel, Carter R. Knutson, Rohith A. Varikoti, Neeraj Kumar. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c08408" target="_blank">
       <img src="https://img.shields.io/badge/ACS%20Omega-2024-blue" alt="ACS Omega 2024">
     </a>
   </li>
   <li>
     <i><b>AI agents in chemical research: GVIM--an intelligent research assistant system</b></i>, Kangyong Ma. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://pubs.rsc.org/en/content/articlepdf/2024/dd/d4dd00398e" target="_blank">
       <img src="https://img.shields.io/badge/Digital%20Discovery-2025-blue" alt="Digital Discovery 2025">
     </a>
   </li>
   <li>
     <i><b>MT-Mol: Multi Agent System with Tool-based Reasoning for Molecular Optimization</b></i>, Hyomin Kim, Yunhui Jang, Sungsoo Ahn. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.20820" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>CSstep: Step-by-step exploration of the chemical space of drug molecules via multi-agent and multi-stage reinforcement learning</b></i>, Xinhao Che, Yujing Zhao, Qilei Liu, Fang Yu, Hanyu Gao, Lei Zhang. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.20820" target="_blank">
       <img src="https://img.shields.io/badge/Chemical%20Engineering%20Science-2025-blue" alt="Chemical Engineering Science 2025">
     </a>
   </li>
   <li>
     <i><b>Agentic Mixture-of-Workflows for Multi-Modal Chemical Search</b></i>, Tiffany J. Callahan, Nathaniel H. Park, Sara Capponi. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2502.19629" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
@@ -613,37 +613,37 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>Autonomous chemical research with large language models</b></i>, Daniil A. Boiko, Robert MacKnight, Ben Kline, Gabe Gomes. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.nature.com/articles/s41586-023-06792-0.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Nature-2023-blue" alt="Nature 2023">
     </a>
   </li>
   <li>
     <i><b>Accelerated end-to-end chemical synthesis development with large language models</b></i>, Yixiang Ruan, Chenyin Lu, Ning Xu, Jian Zhang, Jun Xuan, Jianzhang Pan, Qun Fang, Hanyu Gao, Xiaodong Shen, Ning Ye, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6634f02021291e5d1d58702c/original/accelerated-end-to-end-chemical-synthesis-development-with-large-language-models.pdf" target="_blank">
       <img src="https://img.shields.io/badge/ChemRxiv-2024-blue" alt="ChemRxiv 2024">
     </a>
   </li>
   <li>
     <i><b>Chemist-X: Large language model-empowered agent for reaction condition recommendation in chemical synthesis</b></i>, Kexin Chen, Junyou Li, Kunyi Wang, Yuyang Du, Jiahui Yu, Jiamin Lu, Lanqing Li, Jiezhong Qiu, Jianzhang Pan, Yi Huang, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2311.10776" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
     </a>
   </li>
   <li>
     <i><b>ORGANA: A Robotic Assistant for Automated Chemistry Experimentation and Characterization</b></i>, Kourosh Darvish, Marta Skreta, Yuchi Zhao, Naruki Yoshikawa, Sagnik Som, Miroslav Bogdanovic, Yang Cao, Han Hao, Haoping Xu, Alán Aspuru-Guzik, et al. 
-    <a href="[链接待补充]" target="_blank">
-      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
+    <a href="https://www.cell.com/matter/pdfExtended/S2590-2385(24)00542-3" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2024-red" alt="Cell 2025">
     </a>
   </li>
   <li>
     <i><b>Delocalized, asynchronous, closed-loop discovery of organic laser emitters</b></i>, Felix Strieth-Kalthoff, Han Hao, Vandana Rathore, Joshua Derasp, Théophile Gaudin, Nicholas H. Angello, Martin Seifrid, Ekaterina Trushina, Mason Guy, Junliang Liu, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.science.org/doi/pdf/10.1126/science.adk9227" target="_blank">
       <img src="https://img.shields.io/badge/Science-2024-blue" alt="Science 2024">
     </a>
   </li>
   <li>
     <i><b>AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for Auto-Generating Chemical Process and Instrumentation Diagrams</b></i>, Sakhinana Sagar Srinivas, Shivam Gupta, Venkataramana Runkana. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.24584" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
@@ -656,31 +656,31 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>ChatMOF: An autonomous AI system for predicting and generating metal-organic frameworks</b></i>, Yeonghun Kang, Jihan Kim. 
-    <a href="[链接待补充]" target="_blank">
-      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="arXiv 2023">
+    <a href="https://www.nature.com/articles/s41467-024-48998-4" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2023-red" alt="Nature 2024">
     </a>
   </li>
   <li>
     <i><b>System of agentic AI for the discovery of metal-organic frameworks</b></i>, Theo Jaffrelot Inizan, Sherry Yang, Aaron Kaplan, Yen-Hsu Lin, Jian Yin, Saber Mirzaei, Mona Abdelgaid, Ali H. Alawadhi, KwangHwan Cho, Zhiling Zheng, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/abs/2504.14110" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents</b></i>, Zhaolin Hu, Yixiao Zhou, Zhongan Wang, Xin Li, Weimin Yang, Hehe Fan, Yi Yang. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://openreview.net/pdf?id=9YNyiCJE3k" target="_blank">
       <img src="https://img.shields.io/badge/ICLR-2025-blue" alt="ICLR 2025">
     </a>
   </li>
   <li>
     <i><b>ChemReasoner: Heuristic search over a large language model's knowledge space using quantum-chemical feedback</b></i>, Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, Sutanay Choudhury. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2402.10980" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>Molecular design in synthetically accessible chemical space via deep reinforcement learning</b></i>, Julien Horwood, Emmanuel Noutahi. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://pubs.acs.org/doi/pdf/10.1021/acsomega.0c04153" target="_blank">
       <img src="https://img.shields.io/badge/ACS%20Omega-2020-blue" alt="ACS Omega 2020">
     </a>
   </li>
@@ -693,25 +693,25 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>El Agente: An autonomous agent for quantum chemistry</b></i>, Yunheng Zou, Austin H. Cheng, Abdulrahman Aldossary, Jiaru Bai, Shi Xuan Leong, Jorge Arturo Campos-Gonzalez-Angulo, Changhyeok Choi, Cher Tian Ser, Gary Tom, Andrew Wang, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.cell.com/matter/pdfExtended/S2590-2385(25)00306-6" target="_blank">
       <img src="https://img.shields.io/badge/Matter-2025-blue" alt="Matter 2025">
     </a>
   </li>
   <li>
     <i><b>Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations</b></i>, Jinming Hu, Hassan Nawaz, Yuting Rui, Lijie Chi, Arif Ullah, Pavlo O. Dral. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.08195" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>ChemGraph: An Agentic Framework for Computational Chemistry Workflows</b></i>, Thang D. Pham, Aditya Tanikanti, Murat Keçeli. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.06363?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>xchemagents: Agentic AI for explainable quantum chemistry</b></i>, Can Polat, Mehmet Tuncel, Mustafa Kurban, Erchin Serpedin, Hasan Kurban. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.20574" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>

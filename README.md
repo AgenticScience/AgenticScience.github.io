@@ -14,7 +14,7 @@
 
   <br> 
   
-Welcome to the repository maintained by ✨ Yuejin Yang and Jiaqi Wei ✨ from the **AI for Science Center, Shanghai AI Lab !**
+Welcome to the "Agentic Science" repository.
 
 This repository, part of the **Intern Discovery** project, 
 
